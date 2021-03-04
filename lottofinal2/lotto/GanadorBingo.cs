@@ -51,7 +51,7 @@ namespace lotto
 			if(info.lista_ganadoresBingo() == "No hay ganadores"){
 				//Si no hay ganadores el premio queda para el próximo juego
 				informacion.pote_resto_bingo = informacion.pote_resto_bingo+informacion.monto_total;
-				informacion.monto_total = 5;
+				informacion.monto_total = 0;
 				
 			}else{
 				//Si hay ganadores se guarda ganancias
