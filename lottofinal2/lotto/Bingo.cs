@@ -151,7 +151,7 @@ namespace lotto
 					case 21: num21.BackColor = System.Drawing.Color.Red; break;
 					case 22: num22.BackColor = System.Drawing.Color.Red; break;
 					case 23: num23.BackColor = System.Drawing.Color.Red; break;
-					case 24: num.BackColor = System.Drawing.Color.Red; break;
+					case 24: num24.BackColor = System.Drawing.Color.Red; break;
 					case 25: num25.BackColor = System.Drawing.Color.Red; break;
 					case 26: num26.BackColor = System.Drawing.Color.Red; break;
 					case 27: num27.BackColor = System.Drawing.Color.Red; break;
