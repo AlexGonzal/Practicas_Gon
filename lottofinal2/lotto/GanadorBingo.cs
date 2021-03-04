@@ -31,7 +31,7 @@ namespace lotto
 			monto_ganado.Text = "Premio para cada ganador: " + Convert.ToString(premio) + "$";
 			
 		
-			if(info.lista_ganadoresBingo() != "No hay ganadores"){
+			if(info.lista_ganadoresBingo() != "No hay ganadores, que bien perraaaas"){
 				premio2 = info.premios_bingo();
 				//Si hay un ganador o ganadores se resta el premio al monto total
 				informacion.monto_total = informacion.monto_total - info.premios_bingo();
